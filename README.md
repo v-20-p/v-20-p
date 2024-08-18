@@ -1,11 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=67B385&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khalid+Alhimali;full-stack+developer+" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **android**
+- 🌱 I’m currently learning **go lang**
 
 - ⭐ about me , **a graduate of King Khalid University with a major in Computer Science I am committed to continuous learning and improving my skills, and I believe that my contributions will contribute to the success of the organization and the achievement of its technical goals. I am enthusiastic about new challenges and opportunities for professional growth.**
 - 👨‍💻 All of my projects are available at [still working on it ](/)
 
-- 💬 Ask me about **React , Django,MERN-Stack**
+- 💬 Ask me about **React , Django,MERN-Stack,android**
 
 - 📫 How to reach me **kh.alhimali@gmail.com**
 
